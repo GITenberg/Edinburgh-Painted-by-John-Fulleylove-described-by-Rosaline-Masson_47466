@@ -1,4 +1,5 @@
 _repo: Edinburgh-Painted-by-John-Fulleylove-described-by-Rosaline-Masson_47466
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Fulleylove, John
@@ -6,12 +7,17 @@ contributor:
     deathdate: 1908
     gutenberg_agent_id: '33411'
     url: http://www.gutenberg.org/2009/agents/33411
+covers:
+- cover_type: archival
+  image_path: 47466-h/images/cover.jpg
 creator:
   author:
     agent_name: Masson, Rosaline
     gutenberg_agent_id: '44330'
     url: http://www.gutenberg.org/2009/agents/44330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47466#Edinburgh-Painted-by-John-Fulleylove-described-by-Rosaline-Masson
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
 identifiers:
